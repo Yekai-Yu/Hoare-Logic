@@ -1,2 +1,2 @@
-# Hoare-Logic
+# Hoare Logic
 Component of Web Assignment autograder
