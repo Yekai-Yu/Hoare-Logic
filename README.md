@@ -10,3 +10,12 @@ There are five rules: __Assignment Rule, Pre-condition Strengthening Rule, Post-
 __Lexer, parser__
 * __Transition Semantics__ is employed and __Simple Imperative Programming Language (SIMP)__ is applied.
 * Parser mainly has three categories of expression, __bool_expression, exp_expression, com_expression__.
+
+
+
+## List of files:
+- _hlcommon.ml_ contains utility definitions and functions
+- _hllex.mll_ - lexer
+- _hlparse.mly_ - parser
+- _hlprocessing.ml_ accepts string input to get string parsed (invoking parser).
+- _hlcheck.ml_ - Rules are defined, side condition checkers are included.
