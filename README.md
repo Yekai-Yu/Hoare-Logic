@@ -9,7 +9,7 @@ There are five rules: __Assignment Rule, Pre-condition Strengthening Rule, Post-
 
 __Lexer, parser__
 * __Transition Semantics__ is employed and __Simple Imperative Programming Language (SIMP)__ is applied.
-* Parser mainly has three categories of expression, __bool_expression, exp_expression, com_expression__.
+* Parser mainly has three categories of expression: __bool_expression, exp_expression, com_expression__.
 
 
 
